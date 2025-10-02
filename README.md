@@ -6,14 +6,14 @@
 
 </div>
 
-## 🚀 Full-Stack Engineer | Unity & Real-Time Multiplayer Systems
+## 🚀 Unity3D & Unreal Engine Developer | .NET & Blazor Developer
 
-I am a senior engineer with over 8 years of experience, specializing in building scalable, real-time backend systems and performance-critical game mechanics. I have a passion for architecting robust multiplayer solutions from the ground up and creating seamless user experiences.
+Hello! Introducing myself, i'm a Arief Achmadi Yusra, a rare species of Unity3D and Unreal Engine Developer. Why i'm rare? well because what i do isn't really mainstream yet in the Country i lived (yet). I have 3+ years of experience dealing with game development-esque, i've been work at a New Indie Studio, IT Solution Corporate, and recently i took a Freelance gig as a Unity3D or Unreal Engine Programmer. My Primary skill is that i'm affluent with C#, C++, some Java and Javascript family scripting. My Secondary Skill is that i've worked long enough with Research and Development project that it's become a natural environtment to me. But my Ultimate Skill is that i can make your vision of what your game should become and put that to reality, to infinity and beyond!
 
--   🔭 **What I do:** I architect and deploy high-performance applications, from custom networking protocols (RUDP/TCP) to scalable game backends using NodeJS.
--   💻 **On the front-end:** I enjoy developing responsive and efficient interfaces with modern frameworks like **Svelte** and **React**.
--   🌱 **Currently learning:** I'm expanding my expertise in Multiplayer Netwroking, DevOps with **Docker** and **CI/CD** pipelines.
--   🤝 **Let's connect:** I'm always open to collaborating on interesting projects, especially those involving complex networking or game development challenges.
+-   🔭 **What I do**: I design and implement game systems with a focus on clean architecture, data-driven workflows (ScriptableObjects, Addressables), and modular AI behavior. Experienced in building JRPG, RTS, AR/VR, and simulator projects with Unity (C#), and exploring mechanics with Unreal Engine (Blueprints & C++).
+-   💻 **On the the other side**: I create responsive UI/UX with Unity UI & TextMeshPro, and integrate gameplay features with APIs, databases, and asset pipelines for seamless player experience.
+-   🌱 **Currently learning**: Expanding into Unreal Engine systems design, advanced AI/behavior trees, and multiplayer networking to push scalability and immersion in games. Also expanding my expertise in Multiplayer Netwroking, SOLID Principle and **CI/CD** pipelines.
+-   🤝 **Let's connect**: I’m always open to collaborating on projects involving gameplay programming, AI design, and AR/VR innovation, or anything that challenges me to build smarter and more immersive systems.
 
 ---
 
