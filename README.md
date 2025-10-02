@@ -61,11 +61,11 @@ I am a senior engineer with over 8 years of experience, specializing in building
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/fikrydev">
-    <img src="https://github-readme-stats.vercel.app/api?username=fikrydev&show_icons=true&theme=radical&rank_icon=github" alt="Fikry's GitHub Stats">
+  <a href="https://github.com/arief4450">
+    <img src="https://github-readme-stats.vercel.app/api?username=arief4450&show_icons=true&theme=radical&rank_icon=github" alt="Arief's GitHub Stats">
   </a>
   <a href="https://github.com/fikrydev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrydev&layout=compact&theme=radical" alt="Fikry's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arief4450&layout=compact&theme=radical" alt="Arief's Top Languages">
   </a>
 </p>
 
@@ -74,7 +74,7 @@ I am a senior engineer with over 8 years of experience, specializing in building
 ## 📫 How to Reach Me
 
 <p align="center">
-  You can reach me via email at <a href="mailto:fikry13@gmail.com">fikry13@gmail.com</a> or connect with me on LinkedIn.
+  You can reach me via email at <a href="mailto:ariefachmadi@yahoo.co.id">ariefachmadi@yahoo.co.id</a> or connect with me on LinkedIn.
 </p>
 
 <!--
