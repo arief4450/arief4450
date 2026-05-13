@@ -64,7 +64,7 @@ Hello! Introducing myself, i'm a Arief Achmadi Yusra, a rare species of Unity3D 
   <a href="https://github.com/arief4450">
     <img src="https://github-readme-stats.vercel.app/api?username=arief4450&show_icons=true&theme=radical&rank_icon=github" alt="Arief's GitHub Stats">
   </a>
-  <a href="https://github.com/fikrydev">
+  <a href="https://github.com/arief4450">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arief4450&layout=compact&theme=radical" alt="Arief's Top Languages">
   </a>
 </p>
